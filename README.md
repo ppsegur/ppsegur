@@ -8,21 +8,39 @@
 </div>
 
  <h2>Languages & tools </h2>
+ <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub"alt="GitHub"
 width="40" height="40"/>
+ </span>
+ <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="Debian-icon"
 width="40" height="40"/>
+ </span>
+ <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css"alt="css-icon"
 width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html"alt="html-icon"
+ </span>
+ <span> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html"alt="html-icon"
 width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"alt="linux-icon"
+ </span>
+ <span>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"alt="linux-icon"
 width="40" height="40"/>
+  </span>
+  <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java"alt="java-icon"
 width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript"alt="javaScript-icon"
+ </span>
+ <span> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript"alt="javaScript-icon"
 width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="sql"alt="sql-icon"
+ <span>
+ </span>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="sql"alt="sql-icon"
 width="40" height="40"/>
+ </span>
+ <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring"alt="spring-icon"
 width="40" height="40"/>
+</span>
