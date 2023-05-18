@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div id="header" aling="center">
+<img src="https://media.giphy.com/media/Gb1VVZZncufH1l1a3H/giphy.gif" alt="gif" width="200">
+<h1 aling="center">Hello, I'm Development of Multiplatform Applications</h1>
+<h2 aling="center">Passionate developer specializing in Multiplatform Application Development (DAM). Proficient in designing and implementing mobile and web applications for various platforms. Skilled in programming languages such as Java, HTML, CSS, and JavaScript. Experienced in database management and software testing. Strong expertise in designing flowcharts and diagrams to optimize application workflows. Committed to delivering high-quality, user-friendly applications. Constantly learning and exploring new technologies to stay ahead in the ever-evolving field of software development.</h2>
+<h2 aling="center">Apasionado desarrollador especializado en el Desarrollo de Aplicaciones Multiplataforma (DAM). Experto en el diseño e implementación de aplicaciones móviles y web para diversas plataformas. Habilidades en lenguajes de programación como Java, HTML, CSS y JavaScript. Experiencia en gestión de bases de datos y pruebas de software. Amplia experiencia en el diseño de diagramas de flujo y diagramas para optimizar los flujos de trabajo de las aplicaciones. Comprometido en ofrecer aplicaciones de alta calidad y amigables para el usuario. Siempre aprendiendo y explorando nuevas tecnologías para mantenerse al día en el campo en constante evolución del desarrollo de software</h2>
+</div>
 <!--
 **ppsegur/ppsegur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
