@@ -45,3 +45,15 @@ width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring"alt="spring-icon"
 width="40" height="40"/>
 </span>
+
+# ¡Bienvenidos a mi perfil! 🚀
+
+## Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppsegur&show_icons=true&theme=radical)
+
+## Lenguajes más utilizados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppsegur&layout=compact&theme=radical)
+
+## Mis logros
+![Trophy](https://github-profile-trophy.vercel.app/?username=ppsegur&theme=dracula&no-frame=true)
+
