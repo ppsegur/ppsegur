@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <div id="header" aling="center">
+  <!--
 <img src="https://media.giphy.com/media/Gb1VVZZncufH1l1a3H/giphy.gif" alt="gif" width="200">
  <!--
 <h1 aling="center">Hello, I'm Development of Multiplatform Applications</h1>
