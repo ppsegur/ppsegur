@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <div id="header" aling="center">
+<img src = "https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7" alt = "gift" width = "300"
   <!--
 <img src="https://media.giphy.com/media/Gb1VVZZncufH1l1a3H/giphy.gif" alt="gif" width="200">
  <!--
@@ -12,6 +13,10 @@
  <h2>Languages & tools </h2>
  <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub"alt="GitHub"
+width="40" height="40"/>
+ </span>
+   <span>
+<img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" title="GitHub"alt="GitHub"
 width="40" height="40"/>
  </span>
  <span>
@@ -44,6 +49,11 @@ width="40" height="40"/>
  </span>
  <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring"alt="spring-icon"
+width="40" height="40"/>
+</span>
+<span>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"width="40" height="40"/></span>
+     <span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="spring"alt="spring-icon"
 width="40" height="40"/>
 </span>
 
