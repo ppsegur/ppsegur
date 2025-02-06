@@ -62,10 +62,6 @@
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppsegur&layout=compact&theme=radical)
 
----
-
-## 🏆 Mis logros
-![Trophy](https://github-profile-trophy.vercel.app/?username=ppsegur&theme=dracula&no-frame=true)
 
 ---
 
