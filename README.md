@@ -87,5 +87,10 @@
 </p> <br>
 </span>
 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJnYmVoa2xta2k0MzVnNTRlOGYwZGRwY3gzMms2djVtdHNlOWZyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="gif" width="500"/>
+</div>
+
+
 ## 👁‍🗨 Visualizaciones del perfil
 ![Profile Views](https://komarev.com/ghpvc/?username=ppsegur&color=brightgreen)
