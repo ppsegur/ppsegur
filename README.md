@@ -1,7 +1,7 @@
 ### ¡Hola! Soy José Rafael 👋
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBuZTh3ancyNmRhMHJyMDFobDhxemg1NWZlemlpNmx4aDdqYjM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBuZTh3ancyNmRhMHJyMDFobDhxemg1NWZlemlpNmx4aDdqYjM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif" width="500"/>
 </div>
 
 <h1 align="center">Hello, I'm a Multiplatform Applications Developer</h1>
@@ -65,16 +65,26 @@
 
 ## Proyectos de relevancia 
 <span>
-[ProyectoPepeSeguraAcademia](https://github.com/ppsegur/ProyectoPepeSeguraAcademia): Proyecto final realizado con spring, sobre una academia donde vendemos cursos(ejemplo básico tienda online) , ** como características extra uso de pdf emial generator y uso de la etiqueta iframe para poner videos.
+  <p>
+[ProyectoPepeSeguraAcademia](https://github.com/ppsegur/ProyectoPepeSeguraAcademia): Proyecto final realizado con spring, sobre una academia donde vendemos cursos(ejemplo básico tienda online) , ** como características extra uso de pdf emial generator y uso de la etiqueta iframe para poner videos.</p>
+  <br>
 </span>
 <span>
+  <p>
 [Movie-API](https://github.com/ppsegur/Movie-API) : Proyecto grupal con Angular sobre la API de "the movie database"
+</p>
+  <br>
 </span>
 <span>
+  <p>
 [pokeAPI-en-pareja](https://github.com/pablocamara9/pokeAPI-en-parejas): Proyecto dual con Angular usando la API de pokemon
-</span>
+
+</p>
+<br></span>
 <span>
+  <p>
 [Coolors](https://github.com/ppsegur/Coolors): Proyecto coolors con JS, CSS y HTML generador de paletas de colores 
+</p> <br>
 </span>
 
 ## 👁‍🗨 Visualizaciones del perfil
