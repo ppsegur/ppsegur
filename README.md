@@ -63,17 +63,19 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppsegur&layout=compact&theme=radical)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
----
-
 ## Proyectos de relevancia 
+<span>
 [ProyectoPepeSeguraAcademia](https://github.com/ppsegur/ProyectoPepeSeguraAcademia): Proyecto final realizado con spring, sobre una academia donde vendemos cursos(ejemplo básico tienda online) , ** como características extra uso de pdf emial generator y uso de la etiqueta iframe para poner videos.
+</span>
+<span>
 [Movie-API](https://github.com/ppsegur/Movie-API) : Proyecto grupal con Angular sobre la API de "the movie database"
+</span>
+<span>
 [pokeAPI-en-pareja](https://github.com/pablocamara9/pokeAPI-en-parejas): Proyecto dual con Angular usando la API de pokemon
+</span>
+<span>
 [Coolors](https://github.com/ppsegur/Coolors): Proyecto coolors con JS, CSS y HTML generador de paletas de colores 
-
+</span>
 
 ## 👁‍🗨 Visualizaciones del perfil
 ![Profile Views](https://komarev.com/ghpvc/?username=ppsegur&color=brightgreen)
