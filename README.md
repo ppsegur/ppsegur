@@ -66,7 +66,7 @@
 ## Proyectos de relevancia 
 <span>
   <p>
-[ProyectoPepeSeguraAcademia](https://github.com/ppsegur/ProyectoPepeSeguraAcademia): Proyecto final realizado con spring, sobre una academia donde vendemos cursos(ejemplo básico tienda online) , ** como características extra uso de pdf emial generator y uso de la etiqueta iframe para poner videos.</p>
+[ProyectoPepeSeguraAcademia](https://github.com/ppsegur/ProyectoPepeSeguraAcademia): Proyecto final realizado con spring, sobre una academia donde vendemos cursos(ejemplo básico tienda online) , ** como características extra uso de  generator pdf email y uso de la etiqueta iframe para usar videos de youtube .</p>
   <br>
 </span>
 <span>
