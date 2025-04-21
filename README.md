@@ -85,5 +85,5 @@ Si te interesa colaborar, proponer ideas o simplemente charlar sobre desarrollo,
 
 📫 **Email:** _[pepesegurarodriguez@gmail.com]_  
 🔗 **LinkedIn:** _[www.linkedin.com/in/josé-rafael-segura-rodríguez-2b7567230]_  
-
+📺 **Teléfono** _[606 79 59 33]_
 
