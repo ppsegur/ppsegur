@@ -87,3 +87,5 @@ Si te interesa colaborar, proponer ideas o simplemente charlar sobre desarrollo,
 🔗 **LinkedIn:** _[www.linkedin.com/in/josé-rafael-segura-rodríguez-2b7567230]_  
 📺 **Teléfono** _[606 79 59 33]_
 
+
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBuZTh3ancyNmRhMHJyMDFobDhxemg1NWZlemlpNmx4aDdqYjM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif" width="500"/>
