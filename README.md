@@ -1,96 +1,85 @@
-### ¡Hola! Soy José Rafael 👋
+<h1 align="center">¡Hola! Soy José Rafael 👋</h1>
 
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBuZTh3ancyNmRhMHJyMDFobDhxemg1NWZlemlpNmx4aDdqYjM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif" width="500"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
+</p>
 
-<h1 align="center">Hello, I'm a Multiplatform Applications Developer</h1>
-<h2 align="center">Passionate developer specializing in Multiplatform Application Development (DAM). Proficient in designing and implementing mobile and web applications for various platforms. Skilled in programming languages such as Java, HTML, CSS, and JavaScript. Experienced in database management and software testing. Strong expertise in designing flowcharts and diagrams to optimize application workflows. Committed to delivering high-quality, user-friendly applications. Constantly learning and exploring new technologies to stay ahead in the ever-evolving field of software development.</h2>
-
-<h2 align="center">Apasionado desarrollador especializado en el Desarrollo de Aplicaciones Multiplataforma (DAM). Experto en el diseño e implementación de aplicaciones móviles y web para diversas plataformas. Habilidades en lenguajes de programación como Java, HTML, CSS y JavaScript. Experiencia en gestión de bases de datos y pruebas de software. Amplia experiencia en el diseño de diagramas de flujo y diagramas para optimizar los flujos de trabajo de las aplicaciones. Comprometido en ofrecer aplicaciones de alta calidad y amigables para el usuario. Siempre aprendiendo y explorando nuevas tecnologías para mantenerse al día en el campo en constante evolución del desarrollo de software.</h2>
+<h3 align="center">Desarrollador de Aplicaciones Multiplataforma 💻📱</h3>
 
 ---
 
-## 🌟 Languages & Tools
-<div>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="Debian" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  </span>
-</div>
+🎯 **Sobre mí**
+
+Soy un apasionado desarrollador especializado en el **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me gusta crear soluciones tanto móviles como web, combinando funcionalidad y buena experiencia de usuario.
+
+💬 Me encanta aprender y explorar nuevas tecnologías. Entre mis habilidades destaco:
+
+- ✅ Java, HTML, CSS, JavaScript, TypeScript
+- ✅ Spring Boot, Angular, Flutter
+- ✅ Gestión de bases de datos (PostgreSQL)
+- ✅ Seguridad: JWT, autenticación 2FA
+- ✅ Diseño de diagramas de flujo y estructuras lógicas
+
+También tengo experiencia creando aplicaciones reales como un TPV para tienda, una app emocional con IA y la app FarmaNatur para farmacia natural 🌿.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppsegur&show_icons=true&theme=radical)
+🧰 **Tecnologías y herramientas**
 
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppsegur&layout=compact&theme=radical)
-
-
-## Proyectos de relevancia 
-<span>
-  <p>
-[ProyectoPepeSeguraAcademia](https://github.com/ppsegur/ProyectoPepeSeguraAcademia): Proyecto final realizado con spring, sobre una academia donde vendemos cursos(ejemplo básico tienda online) , ** como características extra uso de  generator pdf email y uso de la etiqueta iframe para usar videos de youtube .</p>
-  <br>
-</span>
-<span>
-  <p>
-[Movie-API](https://github.com/ppsegur/Movie-API) : Proyecto grupal con Angular sobre la API de "the movie database"
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-  <br>
-</span>
-<span>
-  <p>
-[pokeAPI-en-pareja](https://github.com/pablocamara9/pokeAPI-en-parejas): Proyecto dual con Angular usando la API de pokemon
 
+---
+
+📌 **Proyectos destacados**
+
+🧪 [`FarmaNatur-App`](https://github.com/ppsegur/FarmaNatur-App)  
+API REST de una farmacia de productos naturales. Incluye autenticación JWT, 2FA, generación de código QR, gestión de productos, stock y pedidos.
+
+🧾 [`ProyectoPepeSeguraAcademia`](https://github.com/ppsegur/ProyectoPepeSeguraAcademia)  
+Tienda de cursos online hecha en Spring Boot. Incluye generación de PDFs, envío de correos, y reproductor de vídeos embebidos de YouTube.
+
+🎥 [`Movie-API`](https://github.com/ppsegur/Movie-API)  
+Proyecto en grupo con Angular consumiendo la API de The Movie Database (TMDB).
+
+🎮 [`pokeAPI-en-pareja`](https://github.com/pablocamara9/pokeAPI-en-parejas)  
+Proyecto colaborativo usando Angular y la pokeAPI para mostrar Pokémon por parejas.
+
+🎨 [`Coolors`](https://github.com/ppsegur/Coolors)  
+Generador de paletas de colores en JavaScript, inspirado en coolors.co.
+
+---
+
+📊 **GitHub Stats**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ppsegur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppsegur&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-<br></span>
-<span>
-  <p>
-[Coolors](https://github.com/ppsegur/Coolors): Proyecto coolors con JS, CSS y HTML generador de paletas de colores 
-</p> <br>
-</span>
 
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJnYmVoa2xta2k0MzVnNTRlOGYwZGRwY3gzMms2djVtdHNlOWZyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="gif" width="500"/>
-</div>
+---
+
+👁‍🗨 **Visualizaciones de perfil**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ppsegur&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+🎯 **¿Hablamos?**
+
+Si te interesa colaborar, proponer ideas o simplemente charlar sobre desarrollo, ¡aquí estoy!
+
+📫 **Email:** _[pepesegurarodriguez@gmail.com]_  
+🔗 **LinkedIn:** _[www.linkedin.com/in/josé-rafael-segura-rodríguez-2b7567230]_  
 
 
-## 👁‍🗨 Visualizaciones del perfil
-![Profile Views](https://komarev.com/ghpvc/?username=ppsegur&color=brightgreen)
