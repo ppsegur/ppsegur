@@ -1,4 +1,4 @@
-<img src="C:\Users\Numier TPV\Downloads\descarga.png"/>
+<img src="!(Banner)[C:\Users\Numier TPV\Downloads\descarga.png]"/>
 
 
 
