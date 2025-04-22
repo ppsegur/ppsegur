@@ -89,5 +89,5 @@ Si te interesa colaborar, proponer ideas o simplemente charlar sobre desarrollo,
 
 
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBuZTh3ancyNmRhMHJyMDFobDhxemg1NWZlemlpNmx4aDdqYjM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif" width="500"/>
-<img src = "![image](https://github.com/user-attachments/assets/86d0fd69-9506-4f9b-b403-ddffdbec69ed)" />
-"
+<img src = "https://smashdle.net/img/CompleteAll.ef23147a.png" />
+
