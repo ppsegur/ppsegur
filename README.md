@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGcKFH8T8A/I1mcpDpE3R_m2kbpGPuL1g/edit"/>
+<img src="https://www.canva.com/design/DAGcKFH8T8A/I1mcpDpE3R_m2kbpGPuL1g"/>
 
 
 
