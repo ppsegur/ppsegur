@@ -1,6 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/nVW9CFg"  ><a href="//imgur.com/a/nVW9CFg">Banner</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
+<img src="https://imgur.com/Eiva7Os"/>
 
 <h1 align="center">¡Hola! Soy José Rafael 👋</h1>
 
