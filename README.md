@@ -1,9 +1,11 @@
-<img src="Banner Para LinkedIn Desarrollador De Software Moderno Negro.png"/>
+
 
 
 <h1 align="center">¡Hola! Soy José Rafael 👋</h1>
 
 <p align="center">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBuZTh3ancyNmRhMHJyMDFobDhxemg1NWZlemlpNmx4aDdqYjM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif" width="500"/>
+
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
 </p>
 
@@ -91,6 +93,5 @@ Si te interesa colaborar, proponer ideas o simplemente charlar sobre desarrollo,
 📺 **Teléfono** _[606 79 59 33]_
 
 
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBuZTh3ancyNmRhMHJyMDFobDhxemg1NWZlemlpNmx4aDdqYjM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="gif" width="500"/>
 <img src = "https://smashdle.net/img/CompleteAll.ef23147a.png" />
 
