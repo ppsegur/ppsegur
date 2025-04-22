@@ -1,4 +1,4 @@
-<img src="[https://imgur.com/Eiva7Os](https://imgur.com/gallery/banner-nVW9CFg)"/>
+<img src="Banner Para LinkedIn Desarrollador De Software Moderno Negro.png"/>
 
 
 <h1 align="center">¡Hola! Soy José Rafael 👋</h1>
