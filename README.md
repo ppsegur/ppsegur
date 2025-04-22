@@ -1,4 +1,5 @@
-<img src="https://imgur.com/Eiva7Os"/>
+<img src="[https://imgur.com/Eiva7Os](https://imgur.com/gallery/banner-nVW9CFg)"/>
+
 
 <h1 align="center">¡Hola! Soy José Rafael 👋</h1>
 
