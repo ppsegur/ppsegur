@@ -1,5 +1,5 @@
 
-
+ ![fondo](https://github.com/user-attachments/assets/f172830b-ca76-4a16-bff6-e218a9a2099e)
 
 <h1 align="center">¡Hola! Soy José Rafael 👋</h1>
 
