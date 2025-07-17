@@ -56,7 +56,7 @@ También tengo experiencia creando aplicaciones reales como un TPV para tienda, 
 📌 **Proyectos destacados**
 
 🧪 [`FarmaNatur-App`](https://github.com/ppsegur/FarmaNatur-App)  
-API REST de una farmacia de productos naturales. Incluye autenticación JWT, 2FA, generación de código QR, gestión de productos, stock y pedidos.
+API REST de una farmacia de productos naturales. Incluye autenticación JWT, 2FA, generación de código QR ecriptados por GoogleAuthentificator , gestión de productos, stock y pedidos.
 
 🧾 [`ProyectoPepeSeguraAcademia`](https://github.com/ppsegur/ProyectoPepeSeguraAcademia)  
 Tienda de cursos online hecha en Spring Boot. Incluye generación de PDFs, envío de correos, y reproductor de vídeos embebidos de YouTube.
@@ -66,9 +66,6 @@ Proyecto en grupo con Angular consumiendo la API de The Movie Database (TMDB).
 
 🎮 [`pokeAPI-en-pareja`](https://github.com/pablocamara9/pokeAPI-en-parejas)  
 Proyecto colaborativo usando Angular y la pokeAPI para mostrar Pokémon por parejas.
-
-🎨 [`Coolors`](https://github.com/ppsegur/Coolors)  
-Generador de paletas de colores en JavaScript, inspirado en coolors.co.
 
 ---
 
